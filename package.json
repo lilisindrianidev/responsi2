@@ -1,0 +1,25 @@
+{
+  "name": "LilisIndriani185410087",
+  "version": "1.0.0",
+  "description": "Tayo^2 Programming",
+  "main": "modernizr-custom.js",
+  "scripts": {
+     "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chessaAditirta/web_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chessaAditirta/web_project/issues"
+  },
+  "homepage": "https://github.com/chessaAditirta/web_project#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  },
+  "devDependencies": {}
+}
